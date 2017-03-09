@@ -80,7 +80,8 @@ function main($argv = []){
         printf("[!]Affects Version: Struts 2.3.5 - Struts 2.3.31, Struts 2.5 - Struts 2.5.10\n");
         printf("[!]CVE ID         : CVE-2017-5638\n");
         printf("[!]Reference      : https://cwiki.apache.org/confluence/display/WW/S2-045\n");
-        printf("[!]by: iSafe");
+        printf("[!]Support        : www.securlty.org\n");
+        printf("[!]Author         : Mofree\n");
     }
 }
 

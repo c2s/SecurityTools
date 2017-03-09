@@ -18,7 +18,7 @@ def poc(w_url):
 
 
 if __name__=='__main__':
-    print 'blog :  http://www.cuijianxiong.com'
+    print 'www.securlty.org'
     w_url = raw_input('addrs : \n')
     is_shutdown = 1
     while is_shutdown == 1:
